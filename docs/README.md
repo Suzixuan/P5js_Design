@@ -26,6 +26,7 @@ Module 7: Final Project
 
 **No1**   三星galaxy s20部分页面
 
-![](6a1e8e1bgy1gbun1xmq8jg21e30qm7dh.gif)
+![](https://wx3.sinaimg.cn/large/6a1e8e1bgy1gbun1xmq8jg21e30qm7dh.gif)
 
 ###### 2/12/20
+
