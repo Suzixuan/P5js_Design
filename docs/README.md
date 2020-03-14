@@ -30,3 +30,10 @@ Module 7: Final Project
 
 ###### 2/12/20
 
+
+
+**No 1-1** erase(), noErase(), createGraphics() 研究
+
+![](6a1e8e1bgy1gct6dyb025g20j00egdh1.gif)
+
+3/13/20
