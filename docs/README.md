@@ -37,3 +37,11 @@ Module 7: Final Project
 ![](6a1e8e1bgy1gct6dyb025g20j00egdh1.gif)
 
 3/13/20
+
+
+
+**No 2 text() 初探**
+
+![](6a1e8e1bgy1gd3rk81w5xg20oe0idtik.gif)
+
+3/22/20
